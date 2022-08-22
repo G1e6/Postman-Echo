@@ -1,7 +1,7 @@
 package ru.netology.PostmanEcho;
 
 import org.junit.jupiter.api.Test;
-import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInClasspath;
+
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 
